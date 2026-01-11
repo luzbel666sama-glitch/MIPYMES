@@ -26,7 +26,7 @@ Este proyecto realiza un análisis comparativo del costo de una canasta básica 
 5-¿Cómo afecta la ubicación o concentración de MIPYMES en los precios locales?
 
 ## Estructura del proyecto
-MIPYMES
+Proyecto_Canasta_Habana/
 │
 ├── data/
 │   ├── mipymes/
@@ -50,7 +50,6 @@ MIPYMES
 │
 ├── README.md
 └── requirements.txt
-
 
 ## Fuentes de datos
 1-xcfygvhbnjkm

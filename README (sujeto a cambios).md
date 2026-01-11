@@ -25,30 +25,6 @@ Este proyecto realiza un análisis comparativo del costo de una canasta básica 
 
 5-¿Cómo afecta la ubicación o concentración de MIPYMES en los precios locales?
 
-## Estructura del proyecto├──│ └──
-MIPYMES
-│
-├── data/
-│  ├── mipymes/
-│  │   ├── plaza.json
-│  │   └── playa.json
-│  │
-│  ├── salario_medio.json
-│  └── fuentes.txt
-│
-├── evidencia/
-│  ├── playa/
-│  └── plaza/
-│
-├── src/
-│  └── icd_module.py
-│
-├── figures/
-│  └──
-│
-├── Readme.md
-└── requeriments.txt
-
 ## Fuentes de datos
 1-xcfygvhbnjkm
 

@@ -1,39 +1,22 @@
-# Proyecto de análisis económico del costo de la canasta básica en dos municipios de La Habana y su relación con el salario promedio en Cuba.
+# ¿Alcanza el salario? Análisis de MIPYMES en La Habana
+Este proyecto nace de una duda existencial que compartimos todos en la calle: ¿Cuánto de nuestro salario se queda realmente en la tablilla de una MIPYME? A través de un análisis de datos real, hemos mapeado precios en 53 establecimientos de los municipios Plaza de la Revolución y Playa para contrastarlos con el salario medio estatal. No es solo un ejercicio de programación; es una fotografía de la supervivencia económica actual.
 
-## Descripción
-Este proyecto realiza un análisis comparativo del costo de una canasta básica de alimentos en dos municipios de La Habana, utilizando precios reales obtenidos de MIPYMES locales y comparándolos con el salario promedio reportado por la Oficina Nacional de Estadísticas e Información (ONEI). El objetivo es determinar si un cubano con salario promedio puede costear dicha canasta en ambos territorios y cómo varían los precios entre municipios.
+# Estructura del Proyecto
+El proyecto está organizado de forma modular para separar los datos crudos de la lógica de análisis:
 
-## Objetivos
-1-Calcular el costo promedio de una canasta básica de alimentos en tres municipios de La Habana.
+data/: Contiene el archivo general.json con los precios recolectados, salarios de referencia y la estructura de la canasta básica.
 
-2-Comparar las variaciones de precios entre los municipios.
+src/: Aquí reside icd_module.py, la libreria con las funciones
 
-3-Analizar la relación entre el costo de la canasta y el salario promedioen Cuba.
+evidencia/: Fotos de las pizarras y tablillas de los establecimientos visitados (evidencia de campo).
 
-4-Identificar productos que más influyen en la diferencia de precios.
+main.ipynb: El Notebook principal donde se cruzan los datos y se cuenta la historia visualmente.
 
-5-Representar visualmente los resultados mediante gráficos y análisis interpretativos.
+# Hallazgos Principales
+El análisis se centra en varios puntos críticos:
 
-## Preguntas para la investigación
-1-¿Cuánto cuesta una canasta básica en cada municipio?
+Brecha de Precios: La diferencia abismal entre el lugar más barato y el más caro para un mismo producto (como el arroz).
 
-2-¿Qué productos presentan mayores diferencias de precio?
+Duelo de Supervivencia: Una comparativa de cuánto rinde el salario si basamos la dieta en Arroz vs. Espagueti.
 
-3-¿Qué porcentaje del salario promedio se necesita para adquirir la canasta en cada zona?
-
-4-¿Es más accesible la alimentación en un municipio que en otro?
-
-5-¿Cómo afecta la ubicación o concentración de MIPYMES en los precios locales?
-
-## Fuentes de datos
-1-xcfygvhbnjkm
-
-2-drfytvguhbjnkml,
-
-3-xcfgvhbjknm               XD
-
-4-rxtcfygvuhbinj
-
-5-xtcfygvhbunjkm
-
-###### Algo más?
+El Impacto del "Carrito": ¿Qué porcentaje del sueldo se evapora al comprar solo una unidad de los 13 productos básicos?

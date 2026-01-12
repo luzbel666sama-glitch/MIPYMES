@@ -1,0 +1,608 @@
+{
+  "municipio": {
+    "Plaza": {
+      "mipymes": [
+        {
+          "id": "z001",
+          "localizacion": "23.1376950, -82.3846020",
+          "red social": null,
+          "precios": {
+            "Arroz": 825,
+            "Azucar": null,
+            "Sal": 650,
+            "Vinagre": 450,
+            "Frijoles": 850,
+            "Espagueti": 400,
+            "Salsa de tomate": 600,
+            "Aceite": null,
+            "Harina": null,
+            "Leche condensada": 600,
+            "Mayonesa": 1500,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z002",
+          "localizacion": "23.1444160, -82.3922150",
+          "red social": null,
+          "precios": {
+            "Arroz": 680,
+            "Azucar": null,
+            "Sal": 300,
+            "Vinagre": null,
+            "Frijoles": 800,
+            "Espagueti": 320,
+            "Salsa de tomate": 400,
+            "Aceite": null,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 900,
+            "Leche en polvo": 820,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z003",
+          "localizacion": "23.1397210, -82.3985830",
+          "red social": null,
+          "precios": {
+            "Arroz": 750,
+            "Azucar": 750,
+            "Sal": 500,
+            "Vinagre": null,
+            "Frijoles": 720,
+            "Espagueti": 350,
+            "Salsa de tomate": 500,
+            "Aceite": 990,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 1300,
+            "Leche en polvo": 1650,
+            "Carton de huevos": 3500
+          }
+        },
+        {
+          "id": "z004",
+          "localizacion": "23.1390270, -82.3990350",
+          "red social": null,
+          "precios": {
+            "Arroz": 660,
+            "Azucar": null,
+            "Sal": 250,
+            "Vinagre": null,
+            "Frijoles": null,
+            "Espagueti": 320,
+            "Salsa de tomate": 450,
+            "Aceite": 890,
+            "Harina": 450,
+            "Leche condensada": 530,
+            "Mayonesa": 1100,
+            "Leche en polvo": 1675,
+            "Carton de huevos": 3300
+          }
+        },
+        {
+          "id": "z005",
+          "localizacion": "23.1390270, -82.3990350",
+          "red social": null,
+          "precios": {
+            "Arroz": 720,
+            "Azucar": 690,
+            "Sal": 270,
+            "Vinagre": null,
+            "Frijoles": 600,
+            "Espagueti": 340,
+            "Salsa de tomate": 540,
+            "Aceite": 970,
+            "Harina": 600,
+            "Leche condensada": 540,
+            "Mayonesa": 900,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z006",
+          "localizacion": "23.1386790, -82.3993750",
+          "red social": null,
+          "precios": {
+            "Arroz": 650,
+            "Azucar": 700,
+            "Sal": 250,
+            "Vinagre": null,
+            "Frijoles": 500,
+            "Espagueti": 350,
+            "Salsa de tomate": 540,
+            "Aceite": 950,
+            "Harina": 700,
+            "Leche condensada": 540,
+            "Mayonesa": 1000,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z007",
+          "localizacion": "23.1262490, -82.4033380",
+          "red social": null,
+          "precios": {
+            "Arroz": 660,
+            "Azucar": 700,
+            "Sal": 350,
+            "Vinagre": 400,
+            "Frijoles": 500,
+            "Espagueti": 350,
+            "Salsa de tomate": 550,
+            "Aceite": 970,
+            "Harina": 800,
+            "Leche condensada": 550,
+            "Mayonesa": 1250,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z008",
+          "localizacion": "23.1419160, -82.3868660",
+          "red social": null,
+          "precios": {
+            "Arroz": 780,
+            "Azucar": null,
+            "Sal": null,
+            "Vinagre": 850,
+            "Frijoles": null,
+            "Espagueti": 330,
+            "Salsa de tomate": 540,
+            "Aceite": null,
+            "Harina": 650,
+            "Leche condensada": null,
+            "Mayonesa": 1750,
+            "Leche en polvo": null,
+            "Carton de huevos": 3300
+          }
+        },
+        {
+          "id": "z009",
+          "localizacion": "23.1431250, -82.3869920",
+          "red social": null,
+          "precios": {
+            "Arroz": 750,
+            "Azucar": 810,
+            "Sal": null,
+            "Vinagre": null,
+            "Frijoles": 700,
+            "Espagueti": 350,
+            "Salsa de tomate": 540,
+            "Aceite": null,
+            "Harina": 500,
+            "Leche condensada": null,
+            "Mayonesa": 2200,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z010",
+          "localizacion": "23.1432850, -82.3876650",
+          "red social": null,
+          "precios": {
+            "Arroz": 760,
+            "Azucar": null,
+            "Sal": 750,
+            "Vinagre": 770,
+            "Frijoles": 540,
+            "Espagueti": 430,
+            "Salsa de tomate": 450,
+            "Aceite": 980,
+            "Harina": null,
+            "Leche condensada": null,
+            "Mayonesa": 950,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z011",
+          "localizacion": "23.1341510, -82.3982220",
+          "red social": null,
+          "precios": {
+            "Arroz": 650,
+            "Azucar": null,
+            "Sal": 680,
+            "Vinagre": 350,
+            "Frijoles": 500,
+            "Espagueti": 320,
+            "Salsa de tomate": 450,
+            "Aceite": 990,
+            "Harina": null,
+            "Leche condensada": 600,
+            "Mayonesa": null,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z012",
+          "localizacion": "23.1309350, -82.4087380",
+          "red social": null,
+          "precios": {
+            "Arroz": null,
+            "Azucar": 700,
+            "Sal": 300,
+            "Vinagre": null,
+            "Frijoles": 450,
+            "Espagueti": 310,
+            "Salsa de tomate": 500,
+            "Aceite": 960,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 1600,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z013",
+          "localizacion": "23.1303850, -82.4083420",
+          "red social": null,
+          "precios": {
+            "Arroz": 700,
+            "Azucar": null,
+            "Sal": null,
+            "Vinagre": null,
+            "Frijoles": 600,
+            "Espagueti": 400,
+            "Salsa de tomate": 500,
+            "Aceite": 1100,
+            "Harina": 630,
+            "Leche condensada": null,
+            "Mayonesa": null,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z014",
+          "localizacion": "23.1385290, -82.3998580",
+          "red social": null,
+          "precios": {
+            "Arroz": 700,
+            "Azucar": 750,
+            "Sal": 350,
+            "Vinagre": 350,
+            "Frijoles": 800,
+            "Espagueti": 380,
+            "Salsa de tomate": 450,
+            "Aceite": null,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 850,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z015",
+          "localizacion": "23.1270345, -82.3998675",
+          "red social": "https://www.instagram.com/andrea_habana_cuba",
+          "precios": {
+            "Arroz": 800,
+            "Azucar": null,
+            "Sal": 300,
+            "Vinagre": 850,
+            "Frijoles": 850,
+            "Espagueti": 400,
+            "Salsa de tomate": 700,
+            "Aceite": null,
+            "Harina": 850,
+            "Leche condensada": 650,
+            "Mayonesa": 1800,
+            "Leche en polvo": 1670,
+            "Carton de huevos": 3000
+          }
+        },
+        {
+          "id": "z016",
+          "localizacion": "23.1178792, -82.3896493",
+          "red social": "https://www.instagram.com/shapusero_?igsh=M2syaXB5Zm8zczg3&utm_source=qr",
+          "precios": {
+            "Arroz": 730,
+            "Azucar": null,
+            "Sal": 300,
+            "Vinagre": null,
+            "Frijoles": 500,
+            "Espagueti": 330,
+            "Salsa de tomate": 440,
+            "Aceite": 980,
+            "Harina": null,
+            "Leche condensada": null,
+            "Mayonesa": null,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z017",
+          "localizacion": "23.1312577, -82.3984433",
+          "red social": "https://www.instagram.com/eltencentmercado",
+          "precios": {
+            "Arroz": 750,
+            "Azucar": 800,
+            "Sal": 700,
+            "Vinagre": 900,
+            "Frijoles": 600,
+            "Espagueti": 400,
+            "Salsa de tomate": 520,
+            "Aceite": 1100,
+            "Harina": null,
+            "Leche condensada": null,
+            "Mayonesa": 1970,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z018",
+          "localizacion": "23.1179440, -82.3896547",
+          "red social": "https://www.instagram.com/two7market?igsh=MWd3b3A2OWFneXd5aA%3D%3D",
+          "precios": {
+            "Arroz": 760,
+            "Azucar": 870,
+            "Sal": 260,
+            "Vinagre": 330,
+            "Frijoles": 800,
+            "Espagueti": 415,
+            "Salsa de tomate": 750,
+            "Aceite": 1360,
+            "Harina": 790,
+            "Leche condensada": 700,
+            "Mayonesa": 1450,
+            "Leche en polvo": 3000,
+            "Carton de huevos": 3650
+          }
+        },
+        {
+          "id": "z019",
+          "localizacion": "23.1179440, -82.3896547",
+          "red social": "https://www.instagram.com/villa_amada_bodegon/?hl=es-mx",
+          "precios": {
+            "Arroz": 660,
+            "Azucar": null,
+            "Sal": 400,
+            "Vinagre": 600,
+            "Frijoles": 670,
+            "Espagueti": 320,
+            "Salsa de tomate": 540,
+            "Aceite": 1150,
+            "Harina": null,
+            "Leche condensada": 600,
+            "Mayonesa": 2540,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z020",
+          "localizacion": "23.1380705, -82.3806938",
+          "red social": "https://www.instagram.com/mgmercadito/?hl=es-mx",
+          "precios": {
+            "Arroz": 680,
+            "Azucar": null,
+            "Sal": null,
+            "Vinagre": 950,
+            "Frijoles": 600,
+            "Espagueti": 320,
+            "Salsa de tomate": 680,
+            "Aceite": 990,
+            "Harina": 1120,
+            "Leche condensada": 660,
+            "Mayonesa": 1400,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z021",
+          "localizacion": "23.1392979, -82.3987762",
+          "red social": "https://www.instagram.com/dany_dany_vedado/?hl=es-mx",
+          "precios": {
+            "Arroz": 650,
+            "Azucar": 670,
+            "Sal": 450,
+            "Vinagre": null,
+            "Frijoles": 480,
+            "Espagueti": 320,
+            "Salsa de tomate": 450,
+            "Aceite": 890,
+            "Harina": null,
+            "Leche condensada": 530,
+            "Mayonesa": 1400,
+            "Leche en polvo": 1675,
+            "Carton de huevos": 3300
+          }
+        },
+        {
+          "id": "z022",
+          "localizacion": "23.1361131, -82.4076681",
+          "red social": "https://www.instagram.com/kaluch_market/?hl=es-mx",
+          "precios": {
+            "Arroz": null,
+            "Azucar": 720,
+            "Sal": 1000,
+            "Vinagre": null,
+            "Frijoles": 900,
+            "Espagueti": 415,
+            "Salsa de tomate": 700,
+            "Aceite": 1200,
+            "Harina": null,
+            "Leche condensada": 600,
+            "Mayonesa": 1600,
+            "Leche en polvo": null,
+            "Carton de huevos": 4500
+          }
+        },
+        {
+          "id": "z023",
+          "localizacion": "23.1381698, -82.4035143",
+          "red social": "https://www.instagram.com/pazillofresh/?hl=es",
+          "precios": {
+            "Arroz": null,
+            "Azucar": 750,
+            "Sal": 350,
+            "Vinagre": 450,
+            "Frijoles": 600,
+            "Espagueti": 320,
+            "Salsa de tomate": 450,
+            "Aceite": 1100,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 850,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z024",
+          "localizacion": "23.1434001, -82.3961058",
+          "red social": "https://www.instagram.com/castillosupermarket/",
+          "precios": {
+            "Arroz": 680,
+            "Azucar": 700,
+            "Sal": 300,
+            "Vinagre": null,
+            "Frijoles": 450,
+            "Espagueti": 300,
+            "Salsa de tomate": 450,
+            "Aceite": 960,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 1600,
+            "Leche en polvo": null,
+            "Carton de huevos": 3000
+          }
+        },
+        {
+          "id": "z025",
+          "localizacion": "23.1448805, -82.3878570",
+          "red social": null,
+          "precios": {
+            "Arroz": 690,
+            "Azucar": 700,
+            "Sal": 600,
+            "Vinagre": 900,
+            "Frijoles": 700,
+            "Espagueti": 330,
+            "Salsa de tomate": 500,
+            "Aceite": 960,
+            "Harina": 1100,
+            "Leche condensada": 550,
+            "Mayonesa": 1500,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z026",
+          "localizacion": "23.1333663, -82.4036659",
+          "red social": null,
+          "precios": {
+            "Arroz": 550,
+            "Azucar": 800,
+            "Sal": 600,
+            "Vinagre": null,
+            "Frijoles": 600,
+            "Espagueti": 360,
+            "Salsa de tomate": 540,
+            "Aceite": 960,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 1200,
+            "Leche en polvo": 1500,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z027",
+          "localizacion": "23.1433517, -82.3880370",
+          "red social": "https://www.instagram.com/charcuteriaelfaro/",
+          "precios": {
+            "Arroz": 550,
+            "Azucar": 730,
+            "Sal": 650,
+            "Vinagre": null,
+            "Frijoles": 500,
+            "Espagueti": 300,
+            "Salsa de tomate": 600,
+            "Aceite": 970,
+            "Harina": null,
+            "Leche condensada": 520,
+            "Mayonesa": 600,
+            "Leche en polvo": null,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z028",
+          "localizacion": "23.1435314, -82.3878003",
+          "red social": null,
+          "precios": {
+            "Arroz": 1150,
+            "Azucar": null,
+            "Sal": null,
+            "Vinagre": 800,
+            "Frijoles": 800,
+            "Espagueti": 480,
+            "Salsa de tomate": null,
+            "Aceite": 1000,
+            "Harina": 700,
+            "Leche condensada": 550,
+            "Mayonesa": 900,
+            "Leche en polvo": 2300,
+            "Carton de huevos": null
+          }
+        },
+        {
+          "id": "z029",
+          "localizacion": "23.1440226, -82.3873701",
+          "red social": null,
+          "precios": {
+            "Arroz": 620,
+            "Azucar": 600,
+            "Sal": 300,
+            "Vinagre": null,
+            "Frijoles": 700,
+            "Espagueti": 420,
+            "Salsa de tomate": 540,
+            "Aceite": 1100,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 1200,
+            "Leche en polvo": null,
+            "Carton de huevos": 3300
+          }
+        },
+        {
+          "id": "z030",
+          "localizacion": "23.1270382, -82.3978881",
+          "red social": "https://www.facebook.com/laenriqueta.havana/",
+          "precios": {
+            "Arroz": 580,
+            "Azucar": 700,
+            "Sal": 500,
+            "Vinagre": null,
+            "Frijoles": 600,
+            "Espagueti": 330,
+            "Salsa de tomate": 550,
+            "Aceite": 1000,
+            "Harina": null,
+            "Leche condensada": 550,
+            "Mayonesa": 1500,
+            "Leche en polvo": null,
+            "Carton de huevos": 3300
+          }
+        }
+      ]
+    }
+  }
+}

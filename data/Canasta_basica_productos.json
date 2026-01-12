@@ -1,0 +1,69 @@
+{
+  "canasta_basica": [
+    {
+      "producto": "Arroz",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "producto": "Azúcar",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "producto": "Sal",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "producto": "Vinagre",
+      "cantidad": 1,
+      "unidad": "litro"
+    },
+    {
+      "producto": "Frijoles",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "producto": "Espagueti",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "producto": "Salsa de tomate",
+      "cantidad": 500,
+      "unidad": "g"
+    },
+    {
+      "producto": "Aceite",
+      "cantidad": 1,
+      "unidad": "litro"
+    },
+    {
+      "producto": "Harina",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "producto": "Leche condensada",
+      "cantidad": 390,
+      "unidad": "g"
+    },
+    {
+      "producto": "Mayonesa",
+      "cantidad": 500,
+      "unidad": "ml"
+    },
+    {
+      "producto": "Leche en polvo",
+      "cantidad": 1,
+      "unidad": "kg"
+    },
+    {
+      "producto": "Cartón de huevos",
+      "cantidad": 30,
+      "unidad": "unidades"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # ¿Alcanza el salario? Análisis de la Canasta Básica en MIPYMES 
 
 ## Problemática
-En la Habana de 2026, la disponibilidad de productos en los anaqueles de las MIPYMES ha dejado de ser el problema principal, cediendo su lugar a una interrogante más crítica: la capacidad de compra.
+En la Habana de 2026, la disponibilidad de productos en los menús de las MIPYMES ha dejado de ser el problema principal, cediendo su lugar a una interrogante más crítica: la capacidad de compra.
 
 Este proyecto nace de una investigación de campo propia, donde se contrastan los precios de oferta de 13 productos básicos en 53 establecimientos de los municipios Plaza de la Revolución y Playa, frente al salario medio de referencia. El objetivo es determinar, mediante el análisis de datos, qué porcentaje del ingreso mensual se consume en una "canasta mínima" de supervivencia.
 

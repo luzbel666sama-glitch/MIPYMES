@@ -12,21 +12,6 @@ ONEI: Datos oficiales del salario medio en La Habana(2024).
 
 El yerro menu: Es un catalogo digital donde diferentes negocios (mipymes en este caso) promocionan y muestran sus productos
 
-## Estructura
-
-MIPYMES/
-├── data/                    # Datos crudos y procesados
-│   ├── general.json         # Base de datos principal (Precios, Canasta, Salarios)
-│ 
-├── evidencia/               # Registro fotográfico de los establecimientos visitados
-│   ├── plaza/               
-│   └── playa/               
-├── src/                     
-│   └── icd_module.py        # Funciones utilizadas
-├── main.ipynb               # Notebook principal 
-├── README.md                # Descripción del proyecto
-└── requirements.txt         # Dependencias necesarias para ejecutar el código
-
 ## Hallazgos Clave
 Dispersión de Precios: Se identificaron brechas de hasta un 40% en productos idénticos entre diferentes comercios del mismo municipio.
 

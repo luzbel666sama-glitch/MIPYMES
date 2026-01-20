@@ -1,4 +1,4 @@
-# ¿Alcanza el salario? Análisis de la Canasta Básica en MIPYMES (2026)
+# ¿Alcanza el salario? Análisis de la Canasta Básica en MIPYMES 
 
 ## Problemática
 En la Habana de 2026, la disponibilidad de productos en los anaqueles de las MIPYMES ha dejado de ser el problema principal, cediendo su lugar a una interrogante más crítica: la capacidad de compra.

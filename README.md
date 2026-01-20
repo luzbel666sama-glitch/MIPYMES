@@ -1,22 +1,33 @@
-# ¿Alcanza el salario? Análisis de MIPYMES en La Habana
-Este proyecto nace de una duda existencial que compartimos todos en la calle: ¿Cuánto de nuestro salario se queda realmente en la tablilla de una MIPYME? A través de un análisis de datos real, hemos mapeado precios en 53 establecimientos de los municipios Plaza de la Revolución y Playa para contrastarlos con el salario medio estatal. No es solo un ejercicio de programación; es una fotografía de la supervivencia económica actual.
+# ¿Alcanza el salario? Análisis de la Canasta Básica en MIPYMES (2026)
 
-# Estructura del Proyecto
-El proyecto está organizado de forma modular para separar los datos crudos de la lógica de análisis:
+## Problemática
+En la Habana de 2026, la disponibilidad de productos en los anaqueles de las MIPYMES ha dejado de ser el problema principal, cediendo su lugar a una interrogante más crítica: la capacidad de compra.
 
-data/: Contiene el archivo general.json con los precios recolectados, salarios de referencia y la estructura de la canasta básica.
+Este proyecto nace de una investigación de campo propia, donde se contrastan los precios de oferta de 13 productos básicos en 53 establecimientos de los municipios Plaza de la Revolución y Playa, frente al salario medio de referencia. El objetivo es determinar, mediante el análisis de datos, qué porcentaje del ingreso mensual se consume en una "canasta mínima" de supervivencia.
 
-src/: Aquí reside icd_module.py, la libreria con las funciones
+## Fuentes de Datos
+Investigación de Campo: Recolección propia de precios en 53 MIPYMES (Plaza y Playa).
 
-evidencia/: Fotos de las pizarras y tablillas de los establecimientos visitados (evidencia de campo).
+ONEI: Datos oficiales del salario medio en La Habana(2024).
 
-main.ipynb: El Notebook principal donde se cruzan los datos y se cuenta la historia visualmente.
+El yerro menu: Es un catalogo digital donde diferentes negocios (mipymes en este caso) promocionan y muestran sus productos
 
-# Hallazgos Principales
-El análisis se centra en varios puntos críticos:
+## Estructura
 
-Brecha de Precios: La diferencia abismal entre el lugar más barato y el más caro para un mismo producto (como el arroz).
+MIPYMES/
+├── data/                    # Datos crudos y procesados
+│   ├── general.json         # Base de datos principal (Precios, Canasta, Salarios)
+│ 
+├── evidencia/               # Registro fotográfico de los establecimientos visitados
+│   ├── plaza/               
+│   └── playa/               
+├── src/                     
+│   └── icd_module.py        # Funciones utilizadas
+├── main.ipynb               # Notebook principal 
+├── README.md                # Descripción del proyecto
+└── requirements.txt         # Dependencias necesarias para ejecutar el código
 
-Duelo de Supervivencia: Una comparativa de cuánto rinde el salario si basamos la dieta en Arroz vs. Espagueti.
+## Hallazgos Clave
+Dispersión de Precios: Se identificaron brechas de hasta un 40% en productos idénticos entre diferentes comercios del mismo municipio.
 
-El Impacto del "Carrito": ¿Qué porcentaje del sueldo se evapora al comprar solo una unidad de los 13 productos básicos?
+Impacto Salarial: La compra de una sola unidad de los 13 productos de la canasta básica consume una fracción alarmante del salario medio, dejando un margen mínimo para servicios y otros gastos esenciales.
